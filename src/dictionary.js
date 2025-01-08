@@ -1575,14 +1575,14 @@ module.exports = [
  "expected": "とき",
  "tokens": [
  {
- "surface_form": "とき",
+ "surface_form": "時",
  "pos": "名詞",
  "pos_detail_1": "非自立",
  "pos_detail_2": "副詞可能",
  "pos_detail_3": "*",
  "conjugated_type": "*",
  "conjugated_form": "*",
- "basic_form": "とき",
+ "basic_form": "時",
  "reading": "トキ",
  "pronunciation": "トキ"
  }
